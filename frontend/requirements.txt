@@ -1,0 +1,4 @@
+kivy
+kivymd
+websocket-client
+requests
